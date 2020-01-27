@@ -19,6 +19,7 @@ There are a ton of great books on this list, but if you want to start out readin
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
+[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)  
 
 ### Tips on Book Selection
 
@@ -72,7 +73,8 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [The Goal](https://amzn.to/2DjQthG) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2DjQthG) [🎧](https://amzn.to/2XkdVmq)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 [Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2Io85gL)  
-[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)
+[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)   
+[97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903) by Camille Fournier [📘](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)  
 
 #### Leadership
 
@@ -122,6 +124,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 
 [Nonviolent Communication](https://amzn.to/2Znpzio) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2Znpzio) [🎧](https://amzn.to/2VfzIOZ)  
 [Presence](https://amzn.to/2KTRp2s) by Amy Cutty [📘](https://amzn.to/2KTRp2s) [🎧](https://amzn.to/2Vl8Z3q)  
+[Humble Inquiry](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) by Edgar H. Schein [📘](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) [🎧](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/B00M1Z30A4/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 
 #### Public Speaking
 
